@@ -1,0 +1,5 @@
+[user]
+	email = david.d.lin@uconn.edu
+	name = david.d.lin@uconn.edu
+[http]
+	postBuffer = 100000000
